@@ -1,1 +1,11 @@
-# llm.ds
+```
+    Input layer
+        ∇
+    Validation Layer
+        ∇
+    Dummy Model
+        ∇
+    Output Layer
+        ∇
+    API Response
+```
