@@ -1,4 +1,4 @@
-# Structure for AI Model
+# Structure for AI Models
 
 ```
     Input layer
